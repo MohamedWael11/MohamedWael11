@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_BANNER_URL" alt="Mohamed Wael Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohamed Wael</h1>
 
 <h3 align="center">
@@ -9,7 +5,7 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Next.js+Developer;Computer+Engineering+Student;Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%26+Next.js+Developer;Computer+Engineering+Student;Learning+AI+%26+Machine+Learning;Learning+Backend+with+Node.js" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,8 +14,8 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 
 - 🎓 Computer Engineering Student
 - 💻 Frontend Developer specializing in **React.js** and **Next.js**
-- 🖥️ Reviewing **Node.js** to strengthen my backend development skills
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
+- 🖥️ Currently reviewing **Node.js** and learning modern backend development
+- 🤖 Currently learning **Artificial Intelligence, Machine Learning & Generative AI**
 - 🚀 Passionate about building modern web applications and AI-powered solutions
 - 🌱 Always eager to learn new technologies and improve my skills
 
@@ -28,39 +24,36 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,cpp,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,c,git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 💼 Skills
+## 🛠️ Skills
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
+### 🌐 Frontend
 
-### Backend
-- Node.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
-### Programming Languages
-- Python
-- Java
-- C++
-- C
+### ⚙️ Backend
 
-### Tools
-- Git
-- GitHub
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### Computer Science
-- Data Structures
-- Algorithms
-- Object-Oriented Programming (OOP)
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
@@ -68,49 +61,44 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- 🖥️ Node.js (Backend Development)
+- ✨ Generative AI
+- 🖥️ Backend Development with **Node.js**, **Express.js** & **MongoDB**
 
 ---
 
 ## 🚀 Featured Projects
 
-🚧 I'm currently working on exciting projects.
+> 🚧 I'm currently working on building high-quality projects.
 
-Upcoming projects include:
+Upcoming projects will include:
 
 - 🌐 Personal Portfolio
+- 🤖 AI Applications
 - 🛒 E-commerce Website
-- 🤖 AI-Powered Applications
+- 📱 React & Next.js Projects
 - 💬 Real-time Chat Application
-- 📊 Machine Learning Projects
 
 ---
 
 ## 🎯 Career Goals
 
 - 🚀 Become an AI Engineer
-- 💻 Build scalable AI-powered web applications
+- 💻 Build AI-powered Web Applications
 - 🌍 Contribute to Open Source
-- 📈 Keep improving my software engineering skills
+- 📈 Continuously improve my software engineering and problem-solving skills
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-wael-8120b0270" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+📧 **Email**  
+**mwael3834@gmail.com**
 
-<a href="mailto:mwael3834@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+💼 **LinkedIn**  
+**https://www.linkedin.com/in/mohammed-wael-8120b0270**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
-<p align="center">
-Feel free to explore my repositories and connect with me.
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
