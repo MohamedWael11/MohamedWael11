@@ -24,47 +24,50 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,c,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,c,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+- Node.js
+- Express.js
+- MongoDB
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-</p>
+- Python
+- Java
+- C++
+- C
 
-### 🧰 Tools
+### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - ✨ Generative AI
 - 🖥️ Backend Development with **Node.js**, **Express.js** & **MongoDB**
-
----
 
 ## 🚀 Featured Projects
 
