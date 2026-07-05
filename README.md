@@ -12,24 +12,23 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **Computer Engineering Student**
-- 💻 I'm a **Frontend Developer** specializing in **React.js** and **Next.js**
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-- 🌱 Expanding my knowledge in **Python**, **Deep Learning**, and **Generative AI**
-- 🚀 Passionate about building modern web applications and solving real-world problems
-- 📚 Always learning new technologies and improving my programming skills
+- 🎓 Computer Engineering Student
+- 💻 Frontend Developer specializing in **React.js** and **Next.js**
+- 🤖 Currently learning **Artificial Intelligence, Machine Learning & Generative AI**
+- 🌱 Improving my skills in **Python**, **Data Structures**, and **Algorithms**
+- 🚀 Passionate about building modern web applications and AI-powered solutions
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,cpp,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,cpp,c,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Languages & Technologies
+## 💼 Skills
 
 - HTML5
 - CSS3
@@ -41,9 +40,7 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 - Java
 - C++
 - C
-- Git
-- GitHub
-- VS Code
+- Git & GitHub
 
 ---
 
@@ -57,49 +54,36 @@ Frontend Developer | Computer Engineering Student | Future AI Engineer
 
 ---
 
-## 🎯 Goals
+## 🚀 Featured Projects
 
-- ✅ Become an AI Engineer
-- ✅ Build AI-powered Web Applications
-- ✅ Contribute to Open Source Projects
-- ✅ Create Modern Full-Stack Applications
-- ✅ Solve Real-World Problems Using AI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedWael11&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWael11&layout=compact&theme=tokyonight"/>
-
-</p>
+> 🚧 I'm currently working on building high-quality projects.
+>
+> Upcoming projects will include:
+>
+> - 🌐 Personal Portfolio
+> - 🤖 AI Applications
+> - 🛒 E-commerce Website
+> - 📱 React & Next.js Projects
+> - 📊 Machine Learning Projects
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 Career Goals
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MohamedWael11&theme=tokyonight"/>
-
-</p>
+- 🚀 Become an AI Engineer
+- 💻 Build AI-powered Web Applications
+- 🌍 Contribute to Open Source
+- 📈 Continuously improve my programming and problem-solving skills
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+📧 **Email**  
+**mwael3834@gmail.com**
 
-💼 LinkedIn  
-www.linkedin.com/in/mohammed-wael-8120b0270
-
-📧 Email  
-mwael3834@gmail.com
-
-</p>
+💼 **LinkedIn**  
+**https://www.linkedin.com/in/mohammed-wael-8120b0270**
 
 ---
 
@@ -108,5 +92,5 @@ mwael3834@gmail.com
 </h3>
 
 <p align="center">
-If you like my work, don't forget to ⭐ my repositories.
+Feel free to explore my repositories and connect with me. ⭐
 </p>
