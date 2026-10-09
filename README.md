@@ -1,212 +1,300 @@
 
-<!-- ==================== HERO HEADER ==================== -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:0A192F,100:00E5FF&text=MOHAMED%20WAEL&fontColor=FFFFFF&fontSize=52&fontAlignY=45&desc=FRONTEND%20DEVELOPER%20%7C%20AI%20ENGINEER%20IN%20PROGRESS&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Mohamed Wael header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,45:0A192F,100:00E5FF&text=MOHAMED%20WAEL&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20COMPUTER%20ENGINEERING&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Mohamed Wael"/>
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+JavaScript;Exploring+AI+%26+Computer+Vision;Turning+Ideas+Into+Real+Projects" alt="Animated introduction"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer+%7C+React+%26+Next.js;Exploring+Artificial+Intelligence+%26+Computer+Vision;Building+Modern+Web+Experiences" alt="Typing animation" />
+<br/>
 
-  <br/><br/>
+<a href="https://github.com/MohamedWael11">
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-wael-8120b0270">
+<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
+</a>
+<a href="mailto:mwael3834@gmail.com">
+<img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
+</a>
 
-  <a href="https://github.com/MohamedWael11">
-    <img src="https://img.shields.io/badge/GitHub-MohamedWael11-0A192F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-wael-8120b0270">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mwael3834@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A192F?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
-  </a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MohamedWael11&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const mohamed = {
-  role: "Computer Engineering Student",
-  interests: [
-    "Frontend Development",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Computer Vision"
-  ],
-  frontend: ["JavaScript", "TypeScript", "React", "Next.js"],
-  languages: ["C++", "C", "Java", "Python"],
+  name: "Mohamed Wael",
+  education: "Final-Year Computer Engineering Student",
+  primaryFocus: "Frontend Development",
+  technologies: ["JavaScript", "TypeScript", "React", "Next.js"],
+  interests: ["Artificial Intelligence", "Machine Learning", "Computer Vision"],
   currentlyWorkingOn: "AI-Based Retinal Disease Classification",
-  goal: "Building useful products with Web Development and AI"
+  goal: "Build impactful applications combining Web Development and AI"
 };
 ```
 
-I'm a final-year Computer Engineering student interested in creating modern, responsive web applications and exploring how Artificial Intelligence can solve real-world problems.
+I'm a final-year Computer Engineering student passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy learning new technologies, building practical projects, and improving my skills through hands-on development.
+I enjoy turning ideas into functional products, working with APIs, and exploring how Artificial Intelligence can solve real-world problems.
+
+I'm continuously improving my development skills through practical projects and collaborative work.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend technologies"/>
-</p>
-
-### AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch&theme=dark" alt="AI and machine learning technologies"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Frontend technologies"/>
 </p>
 
 ### Backend & Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb&theme=dark" alt="Backend technologies"/>
 </p>
 
-### Programming Languages
+### AI & Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="Programming languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,opencv,pytorch&theme=dark" alt="Programming and AI technologies"/>
 </p>
 
-### Tools & Workflow
+### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" width="100%" alt="Section divider"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" width="100%" alt="Section divider"/>
 </div>
 
-### 01. Quiz App
+### 01. FreshCart — E-commerce Web Application
 
-**Interactive Web-Based Quiz Application**
+**React | JavaScript | Tailwind CSS | REST API**
 
-A web application that allows users to take quizzes through a simple and interactive interface.
+A grocery e-commerce application with product browsing, shopping cart management, and a checkout workflow.
 
-**✨ Key Features**
+**Key Features**
 
-- Interactive quiz interface.
-- Dynamic question and answer selection.
-- JavaScript-based application logic.
-- Responsive layout using HTML and CSS.
-- Clear and simple user experience.
+- Browse products and explore product details.
+- Manage the shopping cart and update product quantities.
+- Add and remove products from the wishlist.
+- User authentication and protected application flows.
+- Checkout form with input validation.
+- Online payment and cash-on-delivery flows.
+- Reusable React components and shared application state.
 
-**🛠️ Technologies**
+**Tech Highlights**
 
-`HTML5` `CSS3` `JavaScript`
+`React` `React Router` `Context API` `React Query` `Formik` `Yup` `Tailwind CSS`
 
 <div align="left">
-  <a href="https://quiz-app-six-eta.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="Live demo"/>
-  </a>
-  <a href="https://github.com/MohamedWael11/Quiz-app">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-0A192F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Source code"/>
-  </a>
+<a href="https://github.com/MohamedWael11/fesh">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="FreshCart source code"/>
+</a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0A192F" width="100%" alt="Project divider"/>
-</div>
+---
 
 ### 02. AI-Based Retinal Disease Classification
 
-**Graduation Project — In Progress**
+**Graduation Project | In Progress**
 
-A computer vision project focused on classifying retinal fundus images to help identify potential eye diseases using deep learning.
+A computer vision project focused on classifying retinal fundus images to identify potential eye diseases using deep learning.
 
-**✨ Planned Features**
+**Project Goals**
 
-- Upload retinal fundus images through a web interface.
-- Classify images into supported disease categories.
-- Display the predicted class and model confidence.
-- Evaluate model performance using appropriate classification metrics.
-- Explore a chatbot to provide general information about the supported eye conditions.
+- Research and select a suitable retinal image dataset.
+- Preprocess images and prepare training and validation sets.
+- Train and evaluate a deep learning classification model.
+- Compare model performance using appropriate evaluation metrics.
+- Develop a web interface for uploading retinal images and viewing predictions.
+- Explore adding a chatbot for general educational information about eye diseases.
 
-**🧠 AI Development Plan**
+**Technologies Under Consideration**
 
-- Dataset research and disease-class selection.
-- Image preprocessing and data augmentation.
-- Deep learning classification model training.
-- Model evaluation and overfitting analysis.
-- Integration with a web application.
+`Python` `Deep Learning` `Computer Vision` `Image Classification` `React`
 
-**🛠️ Technologies Under Consideration**
+**Current Status:** Dataset research, model selection, and development planning are in progress. Final disease classes, model results, and implemented features will be documented as the project develops.
 
-`Python` `Deep Learning` `Computer Vision` `Classification` `React`
-
-> **Project Status:** In Progress. The final dataset, model, supported classes, and implemented features will be confirmed during development. This project is intended as a decision-support prototype, not a replacement for professional medical diagnosis.
+> This project is intended as an educational decision-support prototype, not a replacement for professional medical diagnosis.
 
 ---
 
-## 🎯 Current Focus
+### 03. E-commerce Backend API
+
+**NestJS | TypeScript | MongoDB | Mongoose**
+
+A modular backend project for e-commerce functionality, organized into separate application modules.
+
+**Key Features**
+
+- Product creation and management endpoints.
+- User and role-based authorization.
+- Order creation and order-related operations.
+- Stripe payment integration and webhook handling.
+- Product image upload functionality.
+- Dedicated controllers and services for application modules.
+- Validation and structured API development.
+
+**Tech Highlights**
+
+`NestJS` `TypeScript` `MongoDB` `Mongoose` `Stripe` `REST API`
 
 <div align="left">
-
-  <img src="https://img.shields.io/badge/01-React%20%26%20Next.js-0A192F?style=for-the-badge&logo=react&logoColor=00E5FF" alt="React and Next.js"/>
-  <img src="https://img.shields.io/badge/02-JavaScript%20%26%20TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=00E5FF" alt="JavaScript and TypeScript"/>
-  <img src="https://img.shields.io/badge/03-Machine%20Learning-0A192F?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/04-Generative%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=00E5FF" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/05-Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=00E5FF" alt="Computer Vision"/>
-
-</div>
-
-- Improving my frontend development skills.
-- Building practical projects with React and Next.js.
-- Exploring AI and deep learning applications.
-- Developing my graduation project with my team.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedWael11&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWael11&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F1FF" alt="Most used languages"/>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=MohamedWael11&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6F1FF&dates=8A9BB5&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-
+<a href="https://github.com/MohamedWael11/E-commerce">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="E-commerce API source code"/>
+</a>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Other Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### React Portfolio
+
+A personal portfolio project organized into reusable sections for presenting skills, projects, and contact information.
+
+**Highlights**
+- Hero and About sections.
+- Skills and project showcases.
+- Contact section.
+- Interactive project previews.
+
+**Tech:** React · JavaScript · CSS
+
+[View Repository](https://github.com/MohamedWael11/portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### Note App
+
+A notes application with API integration and interactive note management.
+
+**Highlights**
+- Create and manage notes.
+- Edit existing notes.
+- Delete notes with confirmation.
+- Form validation.
+- User authentication integration.
+
+**Tech:** React · Axios · Formik · Yup
+
+[View Repository](https://github.com/MohamedWael11/Note)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Quiz App
+
+An interactive quiz application built with core web technologies.
+
+**Highlights**
+- Interactive questions and answer choices.
+- Dynamic quiz logic.
+- Simple and responsive user interface.
+
+**Tech:** HTML · CSS · JavaScript
+
+[Live Demo](https://quiz-app-six-eta.vercel.app/) · [Source Code](https://github.com/MohamedWael11/Quiz-app)
+
+</td>
+<td width="50%" valign="top">
+
+### Weather App
+
+A weather application demonstrating API integration and dynamic data presentation.
+
+**Highlights**
+- Fetching weather information.
+- Displaying API-based results.
+- Dynamic interface updates.
+
+**Tech:** HTML · CSS · JavaScript
+
+[View Repository](https://github.com/MohamedWael11/Weather)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Focus
 
 <div align="center">
 
-  <p>Interested in frontend development, AI projects, and collaborating on useful ideas.</p>
+<img src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-0A192F?style=for-the-badge&logo=react&logoColor=00E5FF" alt="Frontend"/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20%26%20APIs-0A192F?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF" alt="Backend"/>
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-0A192F?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Computer-Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=00E5FF" alt="Computer Vision"/>
 
-  <a href="https://github.com/MohamedWael11">
-    <img src="https://img.shields.io/badge/Explore_My_GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-wael-8120b0270">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn profile"/>
-  </a>
-  <a href="mailto:mwael3834@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email me"/>
-  </a>
+</div>
 
-  <br/><br/>
+- Improving React and Next.js development skills.
+- Building applications with API integration and reusable components.
+- Strengthening backend development fundamentals.
+- Developing my graduation project in computer vision.
+- Exploring practical applications of AI and machine learning.
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050816,100:00E5FF" width="100%" alt="Footer"/>
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, building useful products, and collaborating on development projects.
+
+<br/>
+
+<a href="https://github.com/MohamedWael11">
+<img src="https://img.shields.io/badge/Explore_My_Projects-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explore projects"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-wael-8120b0270">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:mwael3834@gmail.com">
+<img src="https://img.shields.io/badge/Contact_Me-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Contact me"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedWael11&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWael11&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6F1FF" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MohamedWael11&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6F1FF&dates=8A9BB5&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050816,100:00E5FF" width="100%" alt="Footer"/>
 
 </div>
