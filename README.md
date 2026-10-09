@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050816,45:0A192F,100:00E5FF&text=MOHAMED%20WAEL&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20COMPUTER%20ENGINEERING&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Mohamed Wael"/>
@@ -77,162 +76,192 @@ I'm continuously improving my development skills through practical projects and 
 
 ## Featured Projects
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" width="100%" alt="Section divider"/>
-</div>
+<!-- ───────────── 01 · FreshCart ───────────── -->
+<table>
+<tr>
+<td valign="top" width="58%">
 
-### 01. FreshCart — E-commerce Web Application
+<h3>🛒 FreshCart — E-commerce Web App</h3>
 
-**React | JavaScript | Tailwind CSS | REST API**
+<p>A grocery store app with product browsing, cart and wishlist management, protected routes, and a full checkout flow.</p>
 
-A grocery e-commerce application with product browsing, shopping cart management, and a checkout workflow.
+<p>
+<img src="https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=00E5FF" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind-050816?style=flat-square&logo=tailwindcss&logoColor=00E5FF" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/React_Query-050816?style=flat-square&logo=reactquery&logoColor=00E5FF" alt="React Query"/>
+<img src="https://img.shields.io/badge/Formik_+_Yup-050816?style=flat-square&logoColor=00E5FF" alt="Formik and Yup"/>
+</p>
 
-**Key Features**
+<details>
+<summary><b>✨ Key features</b></summary>
+<ul>
+<li>Product browsing and product details</li>
+<li>Cart with quantity updates, plus a wishlist</li>
+<li>Authentication and protected routes</li>
+<li>Checkout with validation (online payment &amp; cash on delivery)</li>
+<li>Reusable components with shared state (Context API)</li>
+</ul>
+</details>
 
-- Browse products and explore product details.
-- Manage the shopping cart and update product quantities.
-- Add and remove products from the wishlist.
-- User authentication and protected application flows.
-- Checkout form with input validation.
-- Online payment and cash-on-delivery flows.
-- Reusable React components and shared application state.
-
-**Tech Highlights**
-
-`React` `React Router` `Context API` `React Query` `Formik` `Yup` `Tailwind CSS`
-
-<div align="left">
 <a href="https://github.com/MohamedWael11/fesh">
 <img src="https://img.shields.io/badge/VIEW_SOURCE-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="FreshCart source code"/>
 </a>
-</div>
 
----
+</td>
+<td valign="middle" align="center" width="42%">
 
-### 02. AI-Based Retinal Disease Classification
+<a href="https://github.com/MohamedWael11/fesh">
+<!-- لما تاخد screenshot للمشروع، استبدل اللينك ده بـ: <img src="assets/freshcart.png" width="100%" alt="FreshCart"/> -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:050816,100:00E5FF&text=FreshCart&fontColor=FFFFFF&fontSize=38&desc=E-commerce%20Web%20App&descSize=15&descAlignY=68" width="100%" alt="FreshCart"/>
+</a>
 
-**Graduation Project | In Progress**
+</td>
+</tr>
+</table>
 
-A computer vision project focused on classifying retinal fundus images to identify potential eye diseases using deep learning.
+<!-- ───────────── 02 · Retinal Disease Classification ───────────── -->
+<table>
+<tr>
+<td valign="top" width="58%">
 
-**Project Goals**
+<h3>👁️ AI-Based Retinal Disease Classification</h3>
 
-- Research and select a suitable retinal image dataset.
-- Preprocess images and prepare training and validation sets.
-- Train and evaluate a deep learning classification model.
-- Compare model performance using appropriate evaluation metrics.
-- Develop a web interface for uploading retinal images and viewing predictions.
-- Explore adding a chatbot for general educational information about eye diseases.
+<p>Graduation project: classifying retinal fundus images with deep learning to flag potential eye diseases, served through a web interface.</p>
 
-**Technologies Under Consideration**
+<p>
+<img src="https://img.shields.io/badge/Python-050816?style=flat-square&logo=python&logoColor=00E5FF" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-050816?style=flat-square&logo=pytorch&logoColor=00E5FF" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-050816?style=flat-square&logo=opencv&logoColor=00E5FF" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=00E5FF" alt="React"/>
+</p>
 
-`Python` `Deep Learning` `Computer Vision` `Image Classification` `React`
+<details>
+<summary><b>🎯 Project goals</b></summary>
+<ul>
+<li>Select a suitable retinal image dataset</li>
+<li>Preprocess images and prepare training / validation sets</li>
+<li>Train and evaluate a deep learning classifier</li>
+<li>Compare performance with proper evaluation metrics</li>
+<li>Web UI to upload an image and view predictions</li>
+<li>Explore an educational chatbot about eye diseases</li>
+</ul>
+</details>
 
-**Current Status:** Dataset research, model selection, and development planning are in progress. Final disease classes, model results, and implemented features will be documented as the project develops.
+<sub>⚠️ Educational decision-support prototype, not a substitute for professional medical diagnosis.</sub>
 
-> This project is intended as an educational decision-support prototype, not a replacement for professional medical diagnosis.
+</td>
+<td valign="middle" align="center" width="42%">
 
----
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-00E5FF?style=for-the-badge&labelColor=050816" alt="In progress"/>
 
-### 03. E-commerce Backend API
+<br/><br/>
 
-**NestJS | TypeScript | MongoDB | Mongoose**
+<b>Pipeline</b>
 
-A modular backend project for e-commerce functionality, organized into separate application modules.
+<code>Dataset → Preprocess → Train → Evaluate → Web UI</code>
 
-**Key Features**
+<br/><br/>
 
-- Product creation and management endpoints.
-- User and role-based authorization.
-- Order creation and order-related operations.
-- Stripe payment integration and webhook handling.
-- Product image upload functionality.
-- Dedicated controllers and services for application modules.
-- Validation and structured API development.
+<b>Now:</b> dataset research &amp; model selection
 
-**Tech Highlights**
+</td>
+</tr>
+</table>
 
-`NestJS` `TypeScript` `MongoDB` `Mongoose` `Stripe` `REST API`
+<!-- ───────────── 03 · E-commerce Backend API ───────────── -->
+<table>
+<tr>
+<td valign="top" width="58%">
 
-<div align="left">
+<h3>⚙️ E-commerce Backend API</h3>
+
+<p>A modular REST API for e-commerce with role-based authorization, orders, Stripe payments, and image uploads.</p>
+
+<p>
+<img src="https://img.shields.io/badge/NestJS-050816?style=flat-square&logo=nestjs&logoColor=00E5FF" alt="NestJS"/>
+<img src="https://img.shields.io/badge/TypeScript-050816?style=flat-square&logo=typescript&logoColor=00E5FF" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MongoDB-050816?style=flat-square&logo=mongodb&logoColor=00E5FF" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Stripe-050816?style=flat-square&logo=stripe&logoColor=00E5FF" alt="Stripe"/>
+</p>
+
+<details>
+<summary><b>✨ Key features</b></summary>
+<ul>
+<li>Product management endpoints</li>
+<li>Users with role-based authorization</li>
+<li>Order creation and order operations</li>
+<li>Stripe payments with webhook handling</li>
+<li>Product image upload</li>
+<li>Controllers / services per module, with request validation</li>
+</ul>
+</details>
+
 <a href="https://github.com/MohamedWael11/E-commerce">
 <img src="https://img.shields.io/badge/VIEW_SOURCE-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="E-commerce API source code"/>
 </a>
-</div>
+
+</td>
+<td valign="middle" align="center" width="42%">
+
+<a href="https://github.com/MohamedWael11/E-commerce">
+<!-- لما تاخد screenshot (مثلاً Swagger/Postman)، استبدل اللينك ده بـ: <img src="assets/ecommerce-api.png" width="100%" alt="E-commerce API"/> -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:050816,100:00E5FF&text=E-commerce%20API&fontColor=FFFFFF&fontSize=36&desc=NestJS%20%7C%20MongoDB%20%7C%20Stripe&descSize=15&descAlignY=68" width="100%" alt="E-commerce API"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Other Projects
+## More Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### React Portfolio
+<h3>🎨 React Portfolio</h3>
 
-A personal portfolio project organized into reusable sections for presenting skills, projects, and contact information.
+<p>Personal portfolio with Hero, About, Skills, Projects, and Contact sections built from reusable components.</p>
 
-**Highlights**
-- Hero and About sections.
-- Skills and project showcases.
-- Contact section.
-- Interactive project previews.
+<p><img src="https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=00E5FF" alt="React"/> <img src="https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"/> <img src="https://img.shields.io/badge/CSS-050816?style=flat-square&logo=css3&logoColor=00E5FF" alt="CSS"/></p>
 
-**Tech:** React · JavaScript · CSS
-
-[View Repository](https://github.com/MohamedWael11/portfolio)
+<p><a href="https://github.com/MohamedWael11/portfolio"><img src="https://img.shields.io/badge/SOURCE-00E5FF?style=flat-square&logo=github&logoColor=050816" alt="SOURCE"/></a></p>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Note App
+<h3>📝 Note App</h3>
 
-A notes application with API integration and interactive note management.
+<p>Notes app with API integration: create, edit, and delete notes with confirmation, form validation, and authentication.</p>
 
-**Highlights**
-- Create and manage notes.
-- Edit existing notes.
-- Delete notes with confirmation.
-- Form validation.
-- User authentication integration.
+<p><img src="https://img.shields.io/badge/React-050816?style=flat-square&logo=react&logoColor=00E5FF" alt="React"/> <img src="https://img.shields.io/badge/Axios-050816?style=flat-square&logo=axios&logoColor=00E5FF" alt="Axios"/> <img src="https://img.shields.io/badge/Formik_+_Yup-050816?style=flat-square&logo=&logoColor=00E5FF" alt="Formik_+_Yup"/></p>
 
-**Tech:** React · Axios · Formik · Yup
-
-[View Repository](https://github.com/MohamedWael11/Note)
+<p><a href="https://github.com/MohamedWael11/Note"><img src="https://img.shields.io/badge/SOURCE-00E5FF?style=flat-square&logo=github&logoColor=050816" alt="SOURCE"/></a></p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Quiz App
+<h3>🧠 Quiz App</h3>
 
-An interactive quiz application built with core web technologies.
+<p>Interactive quiz with dynamic questions and answer logic in a simple, responsive interface.</p>
 
-**Highlights**
-- Interactive questions and answer choices.
-- Dynamic quiz logic.
-- Simple and responsive user interface.
+<p><img src="https://img.shields.io/badge/HTML5-050816?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-050816?style=flat-square&logo=css3&logoColor=00E5FF" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"/></p>
 
-**Tech:** HTML · CSS · JavaScript
-
-[Live Demo](https://quiz-app-six-eta.vercel.app/) · [Source Code](https://github.com/MohamedWael11/Quiz-app)
+<p><a href="https://github.com/MohamedWael11/Quiz-app"><img src="https://img.shields.io/badge/SOURCE-00E5FF?style=flat-square&logo=github&logoColor=050816" alt="SOURCE"/></a> <a href="https://quiz-app-six-eta.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=flat-square&logo=vercel&logoColor=050816" alt="Live demo"/></a></p>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Weather App
+<h3>⛅ Weather App</h3>
 
-A weather application demonstrating API integration and dynamic data presentation.
+<p>Fetches weather data from an API and updates the interface dynamically with the results.</p>
 
-**Highlights**
-- Fetching weather information.
-- Displaying API-based results.
-- Dynamic interface updates.
+<p><img src="https://img.shields.io/badge/HTML5-050816?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-050816?style=flat-square&logo=css3&logoColor=00E5FF" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-050816?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"/></p>
 
-**Tech:** HTML · CSS · JavaScript
-
-[View Repository](https://github.com/MohamedWael11/Weather)
+<p><a href="https://github.com/MohamedWael11/Weather"><img src="https://img.shields.io/badge/SOURCE-00E5FF?style=flat-square&logo=github&logoColor=050816" alt="SOURCE"/></a></p>
 
 </td>
 </tr>
